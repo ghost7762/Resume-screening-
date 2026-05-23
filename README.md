@@ -193,7 +193,7 @@ Match % = (Matched Skills / Total JD Skills) × 100
 ## 👨‍💻 Author
 
 **Your Name**  
-Final Year B.Tech / MCA Project  
+Final Year BCA Project  
 [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 
 ---
